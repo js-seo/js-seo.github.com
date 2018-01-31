@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AWS LAMBDA로 회원가입 구현 : API GATEWAY and CORS"
+tags: [aws]
 ---
 구글 IO 행사 때 No-Ops에 대한 강연을 들은 후에 AWS Lambda로 서비스를 만들어보고 싶었다. 써보려고 둘러봤는데 그 때는 함수를 하나하나 올려야되는 줄 알고 불편해서 쓰기를 포기했었다.
 
