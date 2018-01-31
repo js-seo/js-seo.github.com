@@ -22,8 +22,8 @@ url:  # the base hostname & protocol for your site, e.g. http://example.com
 
 owner:
   name: Jaeseong Seo
-  avatar: avatar.jpg
-  bio: 'Bio'
+  avatar: pikachu.png
+  bio: '미니멀리즘을 추구합니다.'
   email: 07js23@gmail.com
   github: js-seo
   instagram: sjs.jason
