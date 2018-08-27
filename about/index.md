@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jaeseong Seo
+title: Jaeseong Seo
 image:
   path: http://wtf.com
   feature: abstract-5.jpg
@@ -9,8 +9,9 @@ image:
 modified: 2017-01-31
 ---
 
-세상에 존재하는  크고 작은 시스템을 설계하고 만들어내는 것을 좋아합니다.
-현재 인간대상 연구 플랫폼을 만드는 팀을 이끌고 있습니다.
+# About
+* [스케닉스 주식회사](http://www.schenics.com)를 이끌고 있습니다.
+* 상식보다는 이성에 근거하고자 합니다.
 * 구조화된 것을 좋아합니다.
 * 직관성을 중요시합니다.
 
@@ -24,34 +25,38 @@ modified: 2017-01-31
   * Business Proficiency in English
   * Fluency in Chinese
 
-# Experience
+# Works
 
-## [Classprep](http://www.theclassprep.com/) : 개발
+## [Classprep](http://www.theclassprep.com/)
 
 동료평가 시스템인 클래스프렙에서 추가개발 및 유지보수, 기타 개발
 컨설팅을 하고 있습니다. (2017. 6 ~ 현재)
 
 ### Stack
-* PHP 기반 Framework
+* Angular
+* CodeIgniter
+* MySql
 * AWS
 
 ### Contribution
 * 기능 추가 개발
-* 코드 리팩토링
+* 퍼블리싱
 * 투자자 미팅에서 서비스 소개
 * 주요 알고리즘 고안 및 개선
 
-## 콘서트 구독 어플리케이션 백엔드 개발
-콘서트 구독 서비스를 위한 어플리케이션의 백엔드를 전담개발했습니다.
+## 콘서트 구독 어플리케이션 라이블
+콘서트 구독 서비스를 위한 어플리케이션을 개발하였고, 특히 백엔드를 전담개발했습니다.
 (2017. 11 ~ 2018. 1)
 
 ### Stack
-* Node.js
-  * Sequelize
+* React Native
 * Serverless Framework
+  * Node.js
+    * Sequelize
+* MariaDB
+* AWS
   * AWS CloudFormation
   * AWS Lambda
-* MariaDB
 
 ### Contribution
 * 데이터베이스 설계
@@ -59,13 +64,14 @@ modified: 2017-01-31
 * [Iamport](http://www.iamport.kr/)로 결제 구현
 * 결제 과정의 보안 이슈 담당
 
-## 콘서트 플랫폼 개발
+## 콘서트 플랫폼
 주로 팬에 의해 직접 촬영된 콘서트 영상을 기반으로 티켓판매를 중개하는 플랫폼에서 주로 서버 로직을 개발했습니다. (2017. 9 ~ 2017. 10)
 
 ### Stack
+* jQuery, CoffeeScript
 * Ruby on Rails
-* AWS Elastic Beanstalk
 * MariaDB
+* AWS Elastic Beanstalk
 
 ### Contribution
 * 데이터베이스 설계 도움
@@ -73,17 +79,18 @@ modified: 2017-01-31
 * 코드 리팩토링
 * 시스템 관리
 
-## [TRACK](https://itunes.apple.com/kr/app/track-%ED%8A%B8%EB%9E%99-%EC%9A%B4%EB%8F%99%EA%B3%84%ED%9A%8D%EA%B3%BC-%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id1136792370) : 팀 리더, 개발
+## 운동기록 어플리케이션 [TRACK](https://itunes.apple.com/kr/app/track-%ED%8A%B8%EB%9E%99-%EC%9A%B4%EB%8F%99%EA%B3%84%ED%9A%8D%EA%B3%BC-%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id1136792370)
 ![TRACK appstore image](/images/track_appstore2.jpg){:width='300px'}
 
 iOS 운동 계획 및 기록 어플리케이션 트랙의 팀 리더로서 개발을
 전담했습니다. (2015 ~ 2017. 2)
 
 ### Stack
-* 대부분 Objective-C, 일부 Swift로 작성 (iOS Native)
-* [Parse](http://parseplatform.org/)로 백엔드 구성
-  * MongoDB
-* [Heroku](https://www.heroku.com/)에 디플로이되어 현재 운영 중
+* iOS Native
+  * 대부분 Objective-C, 일부 Swift로 작성
+* [Parse](http://parseplatform.org/)
+* MongoDB
+* [Heroku](https://www.heroku.com/)
 
 ### Contribution
 * 팀 리더
