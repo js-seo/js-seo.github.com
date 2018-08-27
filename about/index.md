@@ -48,6 +48,12 @@ modified: 2017-01-31
 콘서트 구독 서비스를 위한 어플리케이션을 개발하였고, 특히 백엔드를 전담개발했습니다.
 (2017. 11 ~ 2018. 1)
 
+![Livle_appstore_image1](/images/livle1.jpg){:width='200px'}
+![Livle_appstore_image2](/images/livle2.jpg){:width='200px'}
+![Livle_appstore_image3](/images/livle3.jpg){:width='200px'}
+![Livle_appstore_image4](/images/livle4.jpg){:width='200px'}
+![Livle_appstore_image5](/images/livle5.jpg){:width='200px'}
+
 ### Stack
 * React Native
 * Serverless Framework
@@ -79,7 +85,7 @@ modified: 2017-01-31
 * 코드 리팩토링
 * 시스템 관리
 
-## 운동기록 어플리케이션 [TRACK](https://itunes.apple.com/kr/app/track-%ED%8A%B8%EB%9E%99-%EC%9A%B4%EB%8F%99%EA%B3%84%ED%9A%8D%EA%B3%BC-%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id1136792370)
+## [운동기록 어플리케이션 TRACK](https://itunes.apple.com/kr/app/track-%ED%8A%B8%EB%9E%99-%EC%9A%B4%EB%8F%99%EA%B3%84%ED%9A%8D%EA%B3%BC-%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id1136792370)
 ![TRACK appstore image](/images/track_appstore2.jpg){:width='300px'}
 
 iOS 운동 계획 및 기록 어플리케이션 트랙의 팀 리더로서 개발을
