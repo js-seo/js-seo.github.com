@@ -85,6 +85,26 @@ modified: 2017-01-31
 * 코드 리팩토링
 * 시스템 관리
 
+## 대기업 백화점 매장 매니저 역량진단
+대기업의 백화점 매장 매니저 역량진단 시스템의 개발 및 데이터분석을
+전담하였습니다. (2016. 3 ~ 2016. 8)
+![survey_image1](/images/survey1.png){:width='600px'}
+![survey_image2](/images/survey2.png){:width='600px'}
+![survey_image3](/images/survey3.png){:width='600px'}
+
+### Stack
+* Vanila Javascript
+* PHP
+* MySQL
+* Java
+  * Apache POI
+  * FreeMarker
+
+### Contribution
+* 웹 인터페이스 디자인 및 개발
+* 데이터 분석
+* 보고서 생성기 개발
+
 ## [운동기록 어플리케이션 TRACK](https://itunes.apple.com/kr/app/track-%ED%8A%B8%EB%9E%99-%EC%9A%B4%EB%8F%99%EA%B3%84%ED%9A%8D%EA%B3%BC-%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id1136792370)
 ![TRACK appstore image](/images/track_appstore2.jpg){:width='300px'}
 
